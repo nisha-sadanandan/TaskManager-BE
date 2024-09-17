@@ -2,7 +2,7 @@ TaskManager-BE
 
 Clone the project
 
-git clone https://github.com/nisha-sadanandan/Ecommerce-BE.git
+git clone https://github.com/nisha-sadanandan/TaskManager-BE.git
 
 Go to the project directory
 
